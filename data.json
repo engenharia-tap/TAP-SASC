@@ -24,5 +24,6 @@
     {"Código": 66, "Descrição": "Levantamento da boca de visita 42\"", "MENOR VALOR": 750, "MENOR PREÇO": "BOM JARDIM", "ATUALIZADO": "2025-02-05 00:00:00"},
     {"Código": 67, "Descrição": "Limpeza, manutenção, pintura filtro", "MENOR VALOR": 850, "MENOR PREÇO": "BOM JARDIM", "ATUALIZADO": "2025-02-05 00:00:00"},
     {"Código": 68, "Descrição": "Limpeza de bomba GILBARCO", "MENOR VALOR": 1200, "MENOR PREÇO": "BOM JARDIM", "ATUALIZADO": "2025-02-05 00:00:00"},
-    {"Código": 26, "Descrição": "Retirada de boma", "MENOR VALOR": 150, "MENOR PREÇO": "RIANAPOLIS", "ATUALIZADO": "2025-02-28 00:00:00"}
+    {"Código": 26, "Descrição": "Retirada de bomba", "MENOR VALOR": 150, "MENOR PREÇO": "RIANAPOLIS", "ATUALIZADO": "2025-02-28 00:00:00"},
+    {"Código": 27, "Descrição": "Retirada de sump de bomba", "MENOR VALOR": 150, "MENOR PREÇO": "RIANAPOLIS", "ATUALIZADO": "2025-02-28 00:00:00"},
 ]
